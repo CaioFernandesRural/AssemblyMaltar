@@ -10,7 +10,7 @@
 .CSEG
 .ORG 0000
 ;
-	rjmp START
+	rjmp STAR
 ;
 START:
 	ldi rmp, 0xAA ; example binary 1010 1010
